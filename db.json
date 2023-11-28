@@ -1,8 +1,8 @@
 {
   "tipoVacina":[
-    {"tipoVacina":"Vírus Inativado", "descricao": "Vacina de Covid19 com virus inativado"},
-    {"tipoVacina":"Vírus Atenuados", "descricao": "Vacina de Covid19 com virus atenuado"},
-    {"tipoVacina":"Ácidos Nucleicos", "descricao": "Vacina de Covid19 com ácidos nucleicos"},
-    {"tipoVacina":"SubUnidades", "descricao": "Vacina de Covid19 com subUnidades"}
+    {"id": 1, "tipoVacina":"Vírus Inativado", "descricao": "Vacina de Covid19 com virus inativado"},
+    {"id": 2, "tipoVacina":"Vírus Atenuados", "descricao": "Vacina de Covid19 com virus atenuado"},
+    {"id": 3, "tipoVacina":"Ácidos Nucleicos", "descricao": "Vacina de Covid19 com ácidos nucleicos"},
+    {"id": 4, "tipoVacina":"SubUnidades", "descricao": "Vacina de Covid19 com subUnidades"}
   ]
 }
