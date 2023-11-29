@@ -1,2 +1,2 @@
-# api-fake2
-API fake para a matéria de LP II 
+# api-fake-paciente
+API Fake com informações dos pacientes da matéria de LP II
