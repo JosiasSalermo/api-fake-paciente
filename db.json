@@ -1,5 +1,5 @@
 {
-  "agenda":[
+  "pacientes":[
     { "id":1, "nome": "João", "cpf": "012345677-78", "email": "joao@gmail.com","dataNasc": "2020-11-23","ddd": "32","telefone":"999988765"},
     { "id":2, "nome": "Fernando", "cpf": "012345688-78", "email": "fernando@gmail.com","dataNasc": "2021-12-29","ddd": "32","telefone":"988776655"},
     { "id":3, "nome": "Lucas", "cpf": "123456789-92", "email": "lucas@gmail.com","dataNasc": "2022-07-30","ddd": "32","telefone":"977665544"},
