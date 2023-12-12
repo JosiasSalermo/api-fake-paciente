@@ -52,5 +52,39 @@
       "contraIndicacao": "",
       "medicamentoRegular": "não"
     }
+  ],
+  "sangue": [
+    {
+      "id": 1,
+      "tipoSangue": "A+"
+    },
+    {
+      "id": 2,
+      "tipoSangue": "A-"
+    },
+    {
+      "id": 3,
+      "tipoSangue": "B+"
+    },
+    {
+      "id": 4,
+      "tipoSangue": "B-"
+    },
+    {
+      "id": 5,
+      "tipoSangue": "AB+"
+    },
+    {
+      "id": 6,
+      "tipoSangue": "AB-"
+    },
+    {
+      "id": 7,
+      "tipoSangue": "O+"
+    },
+    {
+      "id": 8,
+      "tipoSangue": "O-"
+    }
   ]
 }
