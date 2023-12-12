@@ -9,7 +9,7 @@
       "ddd": "32",
       "telefone": "999988765",
       "fotoPerfil": "",
-      "tipoSanguineo": "A+",
+      "tipoSangue": "A+",
       "contraIndicacao": "",
       "medicamentoRegular": "não"
     },
@@ -22,7 +22,7 @@
       "ddd": "32",
       "telefone": "988776655",
       "fotoPerfil": "",
-      "tipoSanguineo": "A+",
+      "tipoSangue": "A+",
       "contraIndicacao": "",
       "medicamentoRegular": "não"
     },
@@ -35,7 +35,7 @@
       "ddd": "32",
       "telefone": "977665544",
       "fotoPerfil": "",
-      "tipoSanguineo": "A+",
+      "tipoSangue": "A+",
       "contraIndicacao": "",
       "medicamentoRegular": "não"
     },
@@ -48,7 +48,7 @@
       "ddd": "32",
       "telefone": "966554433",
       "fotoPerfil": "",
-      "tipoSanguineo": "A+",
+      "tipoSangue": "A+",
       "contraIndicacao": "",
       "medicamentoRegular": "não"
     }
