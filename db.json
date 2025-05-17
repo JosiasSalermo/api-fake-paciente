@@ -86,5 +86,39 @@
       "id": 8,
       "tipoSangue": "O-"
     }
+  ],
+  "contraIndicacao": [
+    {
+      "id": 1,
+      "contraIndicacao": "diabetes"
+    },
+    {
+      "id": 2,
+      "doenca": "hipertensão"
+    },
+    {
+      "id": 3,
+      "doenca": "doenças cardíacas"
+    },
+    {
+      "id": 4,
+      "doenca": "câncer"
+    },
+    {
+      "id": 5,
+      "doenca": "doenças respiratórias"
+    },
+    {
+      "id": 6,
+      "doenca": "doenças autoimunes"
+    },
+    {
+      "id": 7,
+      "doenca": "doenças neurológicas"
+    },
+    {
+      "id": 8,
+      "doenca": "doenças infecciosas"
+    }
   ]
 }
