@@ -94,31 +94,31 @@
     },
     {
       "id": 2,
-      "doenca": "hipertensão"
+      "contraIndicacao": "hipertensão"
     },
     {
       "id": 3,
-      "doenca": "doenças cardíacas"
+      "contraIndicacao": "doenças cardíacas"
     },
     {
       "id": 4,
-      "doenca": "câncer"
+      "contraIndicacao": "câncer"
     },
     {
       "id": 5,
-      "doenca": "doenças respiratórias"
+      "contraIndicacao": "doenças respiratórias"
     },
     {
       "id": 6,
-      "doenca": "doenças autoimunes"
+      "contraIndicacao": "doenças autoimunes"
     },
     {
       "id": 7,
-      "doenca": "doenças neurológicas"
+      "contraIndicacao": "doenças neurológicas"
     },
     {
       "id": 8,
-      "doenca": "doenças infecciosas"
+      "contraIndicacao": "doenças infecciosas"
     }
   ]
 }
