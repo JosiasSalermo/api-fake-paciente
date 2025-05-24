@@ -2,123 +2,139 @@
   "pacientes": [
     {
       "id": 1,
-      "nome": "João",
-      "cpf": "012345677-78",
-      "email": "joao@gmail.com",
-      "dataNasc": "2020-11-23",
-      "ddd": "32",
-      "telefone": "999988765",
-      "fotoPerfil": "",
-      "tipoSangue": "A+",
-      "contraIndicacao": "",
-      "medicamentoRegular": "não"
+      "cpf": "123.456.789-00",
+      "data_nascimento": "1990-04-15",
+      "email": "joao.silva@email.com",
+      "nome": "João da Silva",
+      "rg": "MG-12.345.678",
+      "alergia": "Nenhuma",
+      "contraindicacao": "Não possui",
+      "medicamentos_regulares": "Losartana",
+      "tipo_sanguineo": "O+"
     },
     {
       "id": 2,
-      "nome": "Fernando",
-      "cpf": "012345688-78",
-      "email": "fernando@gmail.com",
-      "dataNasc": "2021-12-29",
-      "ddd": "32",
-      "telefone": "988776655",
-      "fotoPerfil": "",
-      "tipoSangue": "A+",
-      "contraIndicacao": "",
-      "medicamentoRegular": "não"
+      "cpf": "234.567.890-11",
+      "data_nascimento": "1985-09-23",
+      "email": "maria.oliveira@email.com",
+      "nome": "Maria de Oliveira",
+      "rg": "SP-98.765.432",
+      "alergia": "Poeira e ácaros",
+      "contraindicacao": "Asma severa",
+      "medicamentos_regulares": "Clenil e Aerolin",
+      "tipo_sanguineo": "A-"
     },
     {
       "id": 3,
-      "nome": "Lucas",
-      "cpf": "123456789-92",
-      "email": "lucas@gmail.com",
-      "dataNasc": "2022-07-30",
-      "ddd": "32",
-      "telefone": "977665544",
-      "fotoPerfil": "",
-      "tipoSangue": "A+",
-      "contraIndicacao": "",
-      "medicamentoRegular": "não"
+      "cpf": "345.678.901-22",
+      "data_nascimento": "2000-01-05",
+      "email": "ana.costa@email.com",
+      "nome": "Ana Costa",
+      "rg": "RJ-23.456.789",
+      "alergia": "Frutos do mar",
+      "contraindicacao": "Alergia alimentar",
+      "medicamentos_regulares": "Antialérgicos",
+      "tipo_sanguineo": "B+"
     },
     {
       "id": 4,
-      "nome": "Mateus",
-      "cpf": "234567891-22",
-      "email": "mateus@gmail.com",
-      "dataNasc": "2023-02-05",
-      "ddd": "32",
-      "telefone": "966554433",
-      "fotoPerfil": "",
-      "tipoSangue": "A+",
-      "contraIndicacao": "",
-      "medicamentoRegular": "não"
-    }
-  ],
-  "sangue": [
-    {
-      "id": 1,
-      "tipoSangue": "A+"
-    },
-    {
-      "id": 2,
-      "tipoSangue": "A-"
-    },
-    {
-      "id": 3,
-      "tipoSangue": "B+"
-    },
-    {
-      "id": 4,
-      "tipoSangue": "B-"
+      "cpf": "456.789.012-33",
+      "data_nascimento": "1978-12-01",
+      "email": "carlos.moura@email.com",
+      "nome": "Carlos Moura",
+      "rg": "DF-45.678.901",
+      "alergia": "Nenhuma",
+      "contraindicacao": "Hipertensão",
+      "medicamentos_regulares": "Enalapril",
+      "tipo_sanguineo": "AB+"
     },
     {
       "id": 5,
-      "tipoSangue": "AB+"
+      "cpf": "567.890.123-44",
+      "data_nascimento": "2003-07-30",
+      "email": "lucas.fernandes@email.com",
+      "nome": "Lucas Fernandes",
+      "rg": "RS-34.567.890",
+      "alergia": "Penicilina",
+      "contraindicacao": "Reação medicamentosa",
+      "medicamentos_regulares": "Antibióticos alternativos",
+      "tipo_sanguineo": "O-"
+    }
+  ],
+  "sanguineo": [
+    {
+      "id": 1,
+      "tipo_sanguineo": "O+"
     },
     {
-      "id": 6,
-      "tipoSangue": "AB-"
+      "id": 2,
+      "tipo_sanguineo": "A-"
     },
     {
-      "id": 7,
-      "tipoSangue": "O+"
+      "id": 3,
+      "tipo_sanguineo": "B+"
     },
     {
-      "id": 8,
-      "tipoSangue": "O-"
+      "id": 4,
+      "tipo_sanguineo": "AB+"
+    },
+    {
+      "id": 5,
+      "tipo_sanguineo": "O-"
     }
   ],
   "contraIndicacao": [
     {
       "id": 1,
-      "contraIndicacao": "diabetes"
+      "descricao": "Não possui"
     },
     {
       "id": 2,
-      "contraIndicacao": "hipertensão"
+      "descricao": "Asma severa"
     },
     {
       "id": 3,
-      "contraIndicacao": "doenças cardíacas"
+      "descricao": "Alergia alimentar"
     },
     {
       "id": 4,
-      "contraIndicacao": "câncer"
+      "descricao": "Hipertensão"
     },
     {
       "id": 5,
-      "contraIndicacao": "doenças respiratórias"
+      "descricao": "Reação medicamentosa"
+    }
+  ],
+  "agendamento": [
+    {
+      "id": 1,
+      "data_agendamento": "2025-06-01",
+      "horario_agendamento": "08:00:00",
+      "paciente_id": 1
     },
     {
-      "id": 6,
-      "contraIndicacao": "doenças autoimunes"
+      "id": 2,
+      "data_agendamento": "2025-06-01",
+      "horario_agendamento": "08:30:00",
+      "paciente_id": 2
     },
     {
-      "id": 7,
-      "contraIndicacao": "doenças neurológicas"
+      "id": 3,
+      "data_agendamento": "2025-06-02",
+      "horario_agendamento": "09:00:00",
+      "paciente_id": 3
     },
     {
-      "id": 8,
-      "contraIndicacao": "doenças infecciosas"
+      "id": 4,
+      "data_agendamento": "2025-06-02",
+      "horario_agendamento": "09:30:00",
+      "paciente_id": 4
+    },
+    {
+      "id": 5,
+      "data_agendamento": "2025-06-03",
+      "horario_agendamento": "10:00:00",
+      "paciente_id": 5
     }
   ]
 }
